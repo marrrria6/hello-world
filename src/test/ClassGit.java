@@ -3,7 +3,7 @@ package test;
 public class ClassGit {
 
 	public static void main(String[] args) {
-		System.out.println("Our phrase");
+		System.out.println("Our phrase is sooo great");
 
 	}
 
